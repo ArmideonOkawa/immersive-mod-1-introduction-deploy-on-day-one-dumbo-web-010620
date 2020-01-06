@@ -51,24 +51,24 @@ help. **Keep in mind everyone in your table will be pushing to the same reposito
 Think about using a workflow with your teammates that will
 minimize conflicts.
 
-## Requirements
+## Requirements 
 
 Please collect the following content from your assigned student for their
 profile. This content doesn't have to be finalized, but you need something to
 get started. They'll be using this content as the project evolves for their
 resume and other profiles online.
 
-* Name
+* Name- done 
 * Github Username
 * Blog URL (if they don't already have a blog it will be their-github-username.github.io)
 * Tagline
 * Profile Picture (something normal, a headshot, of a good reusable size that
   can be easily cropped)
 * Background Picture
-* Treehouse Account
-* CoderWall Account
-* CodeSchool Account
-* Favorite Websites
+* Treehouse Account -n/a
+* CoderWall Account -n/a
+* CodeSchool Account - n/a
+* Favorite Websites 
 * Previous Work Experience
 * Short Bio
 * Twitter URL
